@@ -1,4 +1,4 @@
-# Tearlaments in-depth guide
+# <a href="https://pedroluisbernardos.github.io/Tearlaments-Guide/" target="_blank"><img src="banner.jpg" alt="In-depth Tearlaments Guide"></a>
 
 Last update: 2023-09-20 (after Arise-Heart ban).
 
@@ -31,7 +31,7 @@ This is a very in depth guide, so skip any section you might already know. I hav
 
 ### Shorter guide in my local's store web site
 
-<img src="altf4.png" width="100">
+<a href="https://www.altf4online.com/" target="_blank"><img src="altf4.png" width="100" alt="AltF4 logo"></a>
 
 I'm also preparing a shorter version with my local store <a href="https://www.altf4online.com/" target="_blank">AltF4</a>.
 Follow them on <a href="https://www.facebook.com/altf4online" target="_blank">Facebook</a> or <a href="https://www.instagram.com/altf4.online/" target="_blank">Instagram</a> to see when we will post it!
@@ -556,3 +556,9 @@ For all the floodgates, this deck plays quite well against them. Don't forget yo
 - If they search TKash with Wraitsoth is because they have Fenrir in hand.
 - If they pitch Kelbek with Diviner is because they have Agido in hand.
 - If they pitch Merrli over Havnis is because they have Merrli in hand **or** they don't play Spright Sprind.
+
+## Credits
+
+Credits to ygoprodeck for the card pictures, and duelingbook for the banner, the decks, the videos and endboard pictures.
+
+Credits to all the information I found online: mostly Youtube and in the Facebook Tearlaments Duelists group.
