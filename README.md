@@ -1,6 +1,6 @@
-# Tearlaments in depth guide
+# Tearlaments in-depth guide
 
-Last update: 2023-09-19 (after Arise-Heart ban).
+Last update: 2023-09-20 (after Arise-Heart ban).
 
 Next update: after we have some good Horus decklists out there.
 
