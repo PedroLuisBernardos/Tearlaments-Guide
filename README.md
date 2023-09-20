@@ -29,6 +29,8 @@ All the info you will find here is the result of all my research and testing wit
 
 This is a very in depth guide, so skip any section you might already know. I have maybe added too much information, but at least I feel that everything I wanted to say is here hehe.
 
+### Support me
+
 ☕ If you want to support me: https://www.buymeacoffee.com/pedroluisbernardos
 
 ### Shorter guide in my local's store web site
