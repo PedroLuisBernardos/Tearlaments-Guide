@@ -31,7 +31,7 @@ This is a very in depth guide, so skip any section you might already know. I hav
 
 ### Support me
 
-☕ If you want to support me: https://www.buymeacoffee.com/pedroluisbernardos
+☕ If you want to support me: <a href="https://www.buymeacoffee.com/pedroluisbernardos" target="_blank">https://www.buymeacoffee.com/pedroluisbernardos</a>
 
 ### Shorter guide in my local's store web site
 
