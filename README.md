@@ -1,5 +1,7 @@
 # <a href="https://pedroluisbernardos.github.io/Tearlaments-Guide/" target="_blank"><img src="banner.jpg" alt="In-depth Tearlaments Guide"></a>
 
+**This guide is for TCG only.**
+
 **Last update:** 2023-09-20 (after Arise-Heart ban).
 
 **Next update:** after we have some good Horus decklists out there.
