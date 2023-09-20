@@ -561,4 +561,4 @@ For all the floodgates, this deck plays quite well against them. Don't forget yo
 
 Credits to ygoprodeck for the card pictures, and duelingbook for the banner, the decks, the videos and endboard pictures.
 
-Credits to all the information I found online: mostly Youtube and in the Facebook Tearlaments Duelists group.
+Credits to all the information I found online: mostly Youtube and in the Facebook <a href="https://www.facebook.com/groups/2774907876148837/posts/3126731667633121" target="_blank">Tearlaments Duelists</a> group.
