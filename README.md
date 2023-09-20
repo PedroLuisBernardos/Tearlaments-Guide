@@ -435,7 +435,7 @@ Counting the ones you have in your mainboard:
 - 2-3 backrow hate (Harpie's, Hearbeat, Shaddoll Dragon, Cosmic Cyclone, Twin Twisters, etc.).
 - Graveyard hate is useful, but since we are playing Abyss Dweller as a core card, this is not mandatory (Called by, Belles).
 - Cryme is good to have. It's a great going first card and can be searchable with Kaleido.
-- If you are competitive, you'll need time cards (Gagaga Cowboy, Ladybug or Scattershot (if playing Sprind)).
+- If you are competitive, you'll need time cards (Gagaga Cowboy, Ladybug or Scattershot (if playing Sprind)). Some archetypes have their own in-time cards, like Ancient Fairy Dragon.
 - You will see Shekinaga in the Extra Deck in the following picture. It is there in case you want to play the small [Shaddol variant](#variant).
 
 ![Sideboard cards](decks/sideboard.png)
