@@ -312,15 +312,15 @@ I will present here some other versions that can be played with Tear, but I will
 
 #### Lunalight deck
 
-This is a full gaz version; more combo, more complicated. I recommend you to understand both versions individually and then try by mixing them.
+This version is not very good since the Lunalight cards are pretty old and weak, but it's stills fun to play!
 
-I'll leave it to you to explore the classic Lunalight. combos since this is a Tear guide. But here is an idea of the deck:
+I'll leave it to you to explore the classic Lunalight combos since this is a Tear guide. But here is an idea of the deck:
 
 ![Lunalight deck](/decks/lunalight.png)
 
 #### P.U.N.K. deck
 
-This is a full gaz version; more combo, more complicated. I recommend you to understand both versions individually and then try by mixing them.
+This is a full gaz version; more combo, more complicated. I recommend you to understand both versions indiidually and then try by mixing them.
 
 I'll leave it to you to explore the classic P.U.N.K. combos since this is a Tear guide. But here is an idea of the deck:
 
@@ -339,7 +339,7 @@ The Mikanko package is mainly here to make Beatrice by using Diviner of the Hera
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
 | 3 | ![Ohime the Manifested Mikanko](/cards/ohime.jpg) | ~~You can Ritual Summon this card with "Mikanko Kagura".~~ Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of "Ohime the Manifested Mikanko" once per turn. You can reveal this card in your hand; add 1 "Mikanko" card from your Deck to your hand, except "Ohime the Manifested Mikanko", then discard 1 card. ~~(Quick Effect): You can target 1 Equip Spell in your GY; equip it to 1 appropriate monster on the field.~~ | This card will return it to your hand during your opponent's End Phase so you can keep it on field to protect you one turn, or you can make Beatrice and continue your plays from there. |
-| 1 | ![The Great Mikanko Ceremony](/cards/ceremony.jpg) | Special Summon 1 "Mikanko" monster from your hand, ignoring its Summoning conditions, but return it to the hand during your opponent's End Phase. During your Main Phase: You can banish this card from your GY; send 1 "Mikanko" card from your Deck to the GY, except "The Great Mikanko Ceremony". You can only use each effect of "The Great Mikanko Ceremony" once per turn. | This is here to Summon Ohime. If this goes to your GY, the Ohime's become bricks.<br /><br />Activate the GY effect as soon as possible to get rid of your bricks, but also use it to shuffle your deck when the girls are in the bottom. |
+| 1 | ![The Great Mikanko Ceremony](/cards/ceremony.jpg) | Special Summon 1 "Mikanko" monster from your hand, ignoring its Summoning conditions, but return it to the hand during your opponent's End Phase. During your Main Phase: You can banish this card from your GY; send 1 "Mikanko" card from your Deck to the GY, except "The Great Mikanko Ceremony". You can only use each effect of "The Great Mikanko Ceremony" once per turn. | This is here to Summon Ohime. If this goes to your GY, the Ohimes become bricks.<br /><br />Activate the GY effect as soon as possible to get rid of your bricks, but also use it to shuffle your deck when the girls are in the bottom. |
 | 1 | ![Herald of the Arc Light](cards/herald-arc-light.jpg) | ~~1 Tuner + 1+ non-Tuner monsters. Any monster sent from the hand or Main Deck to the GY is banished instead. When a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card.~~ If this card is sent to the GY: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand. | It is mostly here to pitch it with Diviner and search for Ohime. |
 | ? | ![Herald of Orange Light](cards/orange.jpg) | When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it. | When the Ishizus were at 3 people played it. If the Ishizus were at 2, I'm sure people would play this too. But today, we don't have enough targets for this. I believe the only version it could have its place is Mikanko, and even there I am not sure. |
 
