@@ -89,8 +89,6 @@ Please read TKash and don't give information to your opponent for free. TKash ba
 
 If you expect your opponent is playing Aussa the Earth Charmer, Immovable; banish Fenrir with TKash. You don't want to give your opponent a free Fenrir.
 
-**Metanoise and TKash are milled:** if you mill TKash and Metanoise, and you want to recycle your TKash. Please, put Metanoise in CL1. If you don't TKash will not be able to mill your 2 cards, because it will not be in the GY anymore.
-
 ---
 
 ### 🪤 The Tear Spells/Traps
