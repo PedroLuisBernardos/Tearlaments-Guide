@@ -16,6 +16,7 @@
   - [Revolution](#revolution-deck)
   - [Budget](#budget-deck)
   - [OCG Horus](#ocg-horus)
+  - [OCG Diabellestarr](#ocg-synchron-diabellestarr)
   - Less popular versions
     - [Lunalight](#lunalight-deck)
     - [P.U.N.K.](#punk-deck)
