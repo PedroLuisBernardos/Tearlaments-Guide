@@ -270,12 +270,14 @@ All the versions will be explained here in more detail: [https://pedroluisbernar
    * Revolution Synchron
 * **Budget deck**
 * OCG Horus
+* OCG Diabellestarr
 * Less popular ones
    * Lunalight
    * P.U.N.K.
    * Branded
    * Mikanko
    * Rescue-ACE
+   * Blackwings
 
 ## 🌶️ Mainboard spicy cards
 

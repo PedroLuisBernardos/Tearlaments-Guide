@@ -300,9 +300,15 @@ For this version I have cut the big cards: Field Spells, Fenrir, Guardian Chimer
 
 The Horus support will be good for this deck. It allows you to play The Zombie Vampire, which is a crazy Rank 8 because of this effect: `You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field.`
 
-This is not an official deck at all. It's an example of what a Horus deck could look like:
+The package is quite small (3 DARK horus, 1 WIND, 1 Sarcophagus). You can play more, but it might brick. The list needs to be refined, but here is the idea:
 
 ![Horus deck](decks/horus.png)
+
+### OCG Synchron Diabellestarr
+
+This supports will give you access to more Rank 7 and Synchro plays. The package is quite small (3 spells, 1 monster, 1 jet synchron). This list needs to be refined, but here is the idea:
+
+![Diabellestarr deck](decks/revolution-diab.png)
 
 ---
 
