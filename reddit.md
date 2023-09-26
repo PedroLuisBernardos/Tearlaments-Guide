@@ -30,13 +30,13 @@ Merrli is an okay Normal Summon that will mill you three cards. She is also a Le
 
 A great Hand Trap that allows turn 0 plays and mill 3. Also, your opponent can't stop the mill once the effect has resolved; the Summon and the mill trigger on the same effect.
 
-## Sheiren
+## Scheiren
 
 >During your Main Phase: You can Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Scheiren" once per turn.
 
 The best of the sisters. She will not only mill 3 but also send another monster in your hand by effect, so it will activate it's effects when send to the GY. You can also pitch a brick like Malicious or a Shuffler. Finally, your opponent can't stop the mill once the effect has resolved; the Summon and the mill trigger on the same effect.
 
-One interesting play that you can do with Sheiren and TKash if you don't have any other monsters in hand is to activate the effect of Sheiren (cl1) and then TKash (cl2). First you will banish something to Summon TKash. Then, Sheiren checks if you have a monster on activation (so it was ok when you activated it, you had TKash), but now, since you have no monsters in hand, Sheiren will just Summon and will not mill since you can't discard any monster. This interaction is due to the **then** in this sentence: `Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY`
+One interesting play that you can do with Scheiren and TKash if you don't have any other monsters in hand is to activate the effect of Scheiren (cl1) and then TKash (cl2). First you will banish something to Summon TKash. Then, Scheiren checks if you have a monster on activation (so it was ok when you activated it, you had TKash), but now, since you have no monsters in hand, Scheiren will just Summon and will not mill since you can't discard any monster. This interaction is due to the **then** in this sentence: `Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY`
 
 ## 🧜‍♂️ The other Tear monsters
 
@@ -54,7 +54,7 @@ A great Normal Summon that can pitch a girl or for TKash if you have nothing els
 
 ## Which girl to send?
 
-First, you never want to send Sheiren because you want to activate her effect by using Redoer. Then, if you are asking yourself who to send with Reino, the answer is quite simple in general: send Merrli if you don't play or don't think you'll need to make Sprind during that turn. If you want to make it, send Havnis.
+First, you never want to send Scheiren because you want to activate her effect by using Redoer. Then, if you are asking yourself who to send with Reino, the answer is quite simple in general: send Merrli if you don't play or don't think you'll need to make Sprind during that turn. If you want to make it, send Havnis.
 
 ## TKash
 
@@ -74,7 +74,7 @@ If you expect your opponent is playing Aussa the Earth Charmer, Immovable; banis
 
 >When this card is activated: You can add 1 "Tearlaments" monster or 1 "Visas Starfrost" from your Deck to your hand. Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If a "Tearlaments" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of "Primeval Planet Perlereino" once per turn. You can only activate 1 "Primeval Planet Perlereino" per turn.
 
-Perlereino is one of the best cards in this deck. It gives your Tear AND Fusion monsters an ATK boost, it searches when you activate it and can pop one card each turn. Your principal search target will be Sheiren but sometimes it will be better to search for Reino or even TKash.
+Perlereino is one of the best cards in this deck. It gives your Tear AND Fusion monsters an ATK boost, it searches when you activate it and can pop one card each turn. Your principal search target will be Scheiren but sometimes it will be better to search for Reino or even TKash.
 
 ## Tearlaments Scream
 
@@ -82,10 +82,10 @@ Perlereino is one of the best cards in this deck. It gives your Tear AND Fusion 
 
 Scream will help a lot with the consistency of your deck. It will allow you to mill 3 cards each turn. You will also use it as your principal chainblocker for your Normal Summons. You always want to see it, and even if you mill it, you are still gaining some advantages. The ATK modifier is also very relevant in lots of cases.
 
-A little tip I can give you is that sometimes is better to keep Scream in hand when you have Sheiren. Let's say you have Mudora, Sheiren, Scream and two other cards in hand. You have two choices here:
+A little tip I can give you is that sometimes is better to keep Scream in hand when you have Scheiren. Let's say you have Mudora, Scheiren, Scream and two other cards in hand. You have two choices here:
 
-* Activate Scream. Then, activate Sheiren. You will mill 6. **But**, if you mill Reino, you will not be able to Special Summon him.
-* Activate Sheiren. You mill 3. **You hit Reino**. So you activate his effect by pitching Scream, and continue.
+* Activate Scream. Then, activate Scheiren. You will mill 6. **But**, if you mill Reino, you will not be able to Special Summon him.
+* Activate Scheiren. You mill 3. **You hit Reino**. So you activate his effect by pitching Scream, and continue.
 
 In general, in this situation, I think that if you can play without that Reino, just go and activate Scream. But if Reino is really important, keep it. If for example, you had an Agido instead of the Mudora, because you will mill 8 instead of 3, I would have kept the Scream in hand.
 
@@ -96,6 +96,8 @@ In general, in this situation, I think that if you can play without that Reino, 
 Grief is a Monster Reborn or a Foolish Burial in one card. It seems pretty great, but the problem is that you need to send one card with the same type or attribute from the tutored card, so in general you will send the same card you selected. It is also a good card to send to the GY, specially after banishing a Trap with TKash.
 
 A little tip if you really want to mill and have already a Reino: you can Summon TKash with Grief and then send Reino to GY since they are both WATER.
+
+Another nice interaction is to Special Summon Merrli and send form the field Havnis or Scheiren. Then you cl1 Merrli and cl2 the other girl to mill 3 then fuse.
 
 ## Tearlaments Heartbeat
 
@@ -185,7 +187,7 @@ Principally here to unbrick you when you go first, or to make you win when you a
 
 >2 Level 4 monsters. Once per turn, during the Standby Phase: You can attach the top card of your opponent's Deck to this card as material. (Quick Effect): You can detach up to 3 different types of materials from this card, then apply the following effect(s) depending on what was detached. ● Monster: Banish this card until the End Phase. ● Spell: Draw 1 card. ● Trap: Place 1 face-up card your opponent controls on the top of the Deck. You can only use this effect of "Time Thief Redoer" once per turn.
 
-Your best Rank 4 monster that will trigger Shreiren fusion (because it sends as an effect). You can steal important combo pieces from your opponent's deck, and can trigger Sheiren during your opponent's turn.
+Your best Rank 4 monster that will trigger Shreiren fusion (because it sends as an effect). You can steal important combo pieces from your opponent's deck, and can trigger Scheiren during your opponent's turn.
 
 **Don't steal your opponent's cards. Always check before pickup up your cards.**
 
@@ -267,8 +269,8 @@ All the versions will be explained here in more detail: [https://pedroluisbernar
    * Shaddoll
    * Revolution Synchron
 * **Budget deck**
+* OCG Horus
 * Less popular ones
-   * Horus
    * Lunalight
    * P.U.N.K.
    * Branded
@@ -346,13 +348,13 @@ Ideally it can be bigger depending on your mills but the objective is simple: pi
 
 ## Example of endboard with Cross-Sheep and Redoer
 
-On your opponent's turn, you can fuse (with Sheiren). Put the fusion under Cross-Sheep. Then activate Sheep effect: revive Reino and continue...
+On your opponent's turn, you can fuse (with Scheiren). Put the fusion under Cross-Sheep. Then activate Sheep effect: revive Reino and continue...
 
 [https://www.duelingbook.com/replay?id=1000060-52665106](https://www.duelingbook.com/replay?id=1000060-52665106)
 
 ## Revolution combo
 
-If you are playing the Revolution version, you can make a big board using only Fenrir and Revolution Synchron. In this case I was very lucky with all my follow-up and cards, but even without that Sheiren in hand I guarantee myself a Baronne and a mill 5 with TKash.
+If you are playing the Revolution version, you can make a big board using only Fenrir and Revolution Synchron. In this case I was very lucky with all my follow-up and cards, but even without that Scheiren in hand I guarantee myself a Baronne and a mill 5 with TKash.
 
 [https://www.duelingbook.com/replay?id=1000060-52619657](https://www.duelingbook.com/replay?id=1000060-52619657)
 
@@ -389,9 +391,9 @@ In this example, I have two choices:
 
 [https://www.duelingbook.com/replay?id=1000060-52665159](https://www.duelingbook.com/replay?id=1000060-52665159)
 
-## 2. Opponent Ashes my Sheiren
+## 2. Opponent Ashes my Scheiren
 
-In this example I was lucky and had Poly, so I could make Guardian Chimera and continue. I also gambled when I chained CL1 Sheiren and CL2 Agido; if I would have hit nothing, I would have been obligated to fuse Sheiren + Guardian Chimera into Dragostapelia. Luckily I hit a King of the Swamp. Also, I decided to make Grapha to get rid of my Trivikarma in hand, and also, I knew that I will have a Tear name online because I milled Sulliek (so I searched for TKash). Finally, I decided to get Metanoise, because I prefer to pitch a girl than to randomly mill 2.
+In this example I was lucky and had Poly, so I could make Guardian Chimera and continue. I also gambled when I chained CL1 Scheiren and CL2 Agido; if I would have hit nothing, I would have been obligated to fuse Scheiren + Guardian Chimera into Dragostapelia. Luckily I hit a King of the Swamp. Also, I decided to make Grapha to get rid of my Trivikarma in hand, and also, I knew that I will have a Tear name online because I milled Sulliek (so I searched for TKash). Finally, I decided to get Metanoise, because I prefer to pitch a girl than to randomly mill 2.
 
 [https://www.duelingbook.com/replay?id=1000060-52665413](https://www.duelingbook.com/replay?id=1000060-52665413)
 
@@ -486,8 +488,8 @@ The full description on how to use those cards (as the player against Tear) and 
 
 ## Small tips to know the Tear player's hand
 
-* If they search Reino or TKash with Perlereino is mostly because they have Sheiren in hand.
-* If they search TKash with Perlereino is mostly because they have Reino and Sheiren in hand.
+* If they search Reino or TKash with Perlereino is mostly because they have Scheiren in hand.
+* If they search TKash with Perlereino is mostly because they have Reino and Scheiren in hand.
 * If they search TKash with Wraitsoth is because they have Fenrir in hand.
 * If they pitch Kelbek with Diviner is because they have Agido in hand.
 * If they pitch Merrli over Havnis is because they have Merrli in hand **or** they don't play Spright Sprind.
