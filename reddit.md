@@ -235,7 +235,11 @@ The worst of the Millers. It can monster reborn another Ishizu to make Rank 4 pl
 
 Kelbek has a crazy effect in hand and when sent to the GY. It is clearly the best of the Ishizu cards. Use it wisely, sometimes it's better to return a monster to the hand to interrupt your opponent's plays instead of milling 5.
 
-## Your Miller's effect on the GY will trigger the effect of the other Miller in hand
+## Your Millers will trigger even if they are discarded as cost
+
+The cards say: `If this card is sent from the hand or Deck to the GY`. So if you respect this condition, even if you discarded as cost (like by using Super Poly), they will mill 5.
+
+## Your Millers' effect on the GY will trigger the effect of the other Miller in hand
 
 Since, you force your opponent to send a card from his deck to the GY and your Millers say: `If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step)`, once you activate for example Agido, you would be able to chain Kelbek in hand.
 

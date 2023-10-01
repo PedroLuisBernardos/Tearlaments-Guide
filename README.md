@@ -2,7 +2,7 @@
 
 **This guide is for TCG only.**
 
-**Last update:** 2023-09-26 (after Arise-Heart ban).
+**Last update:** 2023-09-30 (after Arise-Heart ban).
 
 **Next update:** after we have some good AGOV decklists out there.
 
@@ -14,6 +14,7 @@
   - [Winda](#winda-package)
   - [Shaddoll](#shaddoll-deck)
   - [Revolution](#revolution-deck)
+  - [Kashtira](#kashtira-package)
 - Other versions
   - [Budget](#budget-deck)
   - [OCG Horus](#ocg-horus)
@@ -150,6 +151,10 @@ Be careful if you just summoned Kaleido under Cross-Sheep and want to pop it. Yo
 | 3 | ![King of the Swamp](cards/king.jpg) | This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 "Polymerization" from your Deck to your hand. | Used to tutor for Poly and have access to your strong fusions. |
 | 0-1 | ![Trivikarma](cards/trivikarma.jpg) | ~~Target 1 "Visas Starfrost" in your Monster Zone and 1 Effect Monster your opponent controls; negate that opponent's monster's effects, and if you do, your targeted monster gains ATK equal to half of that monster's original ATK or DEF (whichever is higher).~~ You can banish this card from your GY; add 1 Spell/Trap that mentions "Visas Starfrost" from your Deck to your hand, except "Trivikarma". You can only use 1 "Trivikarma" effect per turn, and only once that turn. | This allows you to shuffle back your deck when you want to remove your girls from the bottom, and also, searches almost any Spell/Trap you need. You will never use the first effect, unless you play Visas, so this card is a brick in hand (but there are many ways to discard it). |
 
+#### Your Millers will trigger even if they are discarded as cost
+
+The cards say: `If this card is sent from the hand or Deck to the GY`. So if you respect this condition, even if you discarded as cost (like by using Super Poly), they will mill 5.
+
 #### Your Miller's effect on the GY will trigger the effect of the other Miller in hand
 
 Since, you force your opponent to send a card from his deck to the GY and your Millers say: `If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step)`, once you activate for example Agido, you would be able to chain Kelbek in hand.
@@ -173,6 +178,8 @@ Abyss Dweller seems a staple in the current format because of Unchained and Chim
 ![Core cards](decks/core.png)
 
 ## Versions
+
+For most of the versions here the sideboard is pretty generic. It can be modified depending on the meta.
 
 ### Hero package
 
@@ -295,6 +302,25 @@ You can build it in many ways. Here are some examples:
 #### Revolution Shaddoll
 
 ![Revolution Shaddoll deck](decks/revolution-shaddoll.png)
+
+### Kashtira package
+
+Other cards like Reiseheart or Theosis make the deck way more explosive, but the mills are very bad. You have to make some choices during your deckbuild. This is an example of the proportions you can run:
+
+| Quantity | Card | Effect | Comment |
+| --- | --- | --- | --- |
+| 2-3 | ![Kashtira Fenrir](cards/fenrir.jpg) | If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Fenrir" once per turn. During your Main Phase: You can add 1 "Kashtira" monster from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can target 1 face-up card your opponent controls; banish it, face-down. | You will need Fenrir and TKash to make Dracossack. You can also play some Nessies to play Dracossack because they are Level 7 too. |
+| 1-2 | ![Kashtira Unicorn](cards/unicorn.jpg) | If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Unicorn" once per turn. During your Main Phase: You can add 1 "Kashtira" Spell from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can look at your opponent's Extra Deck, and if you do, banish 1 monster from it, face-down. | Allows you to search for Birth or Wraitsoth. |
+| 0-1 | ![Scareclaw Kashtira](cards/birth.jpg) | During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 "Kashtira" or "Scareclaw" card from your hand or GY. You can only use this effect of "Scareclaw Kashtira" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If your "Kashtira" or "Scareclaw" monster battles an opponent's monster, that opponent's monster's effects are negated until the end of this turn. | This helps against untargettable and undestroyable monsters. |
+| 1-2-3 | ![Pressured Planet Wraitsoth](cards/wraitsoth.jpg) | When this card is activated: You can add 1 "Kashtira" monster from your Deck to your hand. Monsters you control gain 100 ATK/DEF for each different Attribute on the field. If a "Kashtira Shangri-Ira" you control activates an effect (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of "Pressured Planet Wraitsoth" once per turn. You can only activate 1 "Pressured Planet Wraitsoth" per turn. | Useful to bait an Ash or to search for Ferir or TKash. It also boosts the ATK **and** DEF, so consider it. Normally, you want to play this before Perlereino. |
+| 1-2 | ![Kashtira Birth](cards/birth.jpg) | You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz "Kashtira" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a "Kashtira" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of "Kashtira Birth" once per turn. | Good card advantage card that allows you to clean your opponent's GY and recurrs your milled or banished Kashtira monsters to put pressure. |
+| 1 | ![Kashtira Shangri-Ira](cards/shangri-ira.jpg) | During each Standby Phase: You can Special Summon 1 "Kashtira" monster from your Deck. You can only use the previous effect of "Kashtira Shangri-Ira" once per turn. Each time a card(s) your opponent owns and possesses is banished face-down (except during the Damage Step): You can choose 1 unused Main Monster Zone or Spell & Trap Zone; it cannot be used while this monster is face-up on the field. If this card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead. | This is a great boss monster to have in any Kashtira field. |
+| 1 | ![Kashtira Shangri-Ira](cards/shangri-ira.jpg) | During each Standby Phase: You can Special Summon 1 "Kashtira" monster from your Deck. You can only use the previous effect of "Kashtira Shangri-Ira" once per turn. Each time a card(s) your opponent owns and possesses is banished face-down (except during the Damage Step): You can choose 1 unused Main Monster Zone or Spell & Trap Zone; it cannot be used while this monster is face-up on the field. If this card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead. | This is a great boss monster to have in any Kashtira field. |
+| 1 | ![Red-Eyes Flare Metal Dragon](cards/red-eyes-flare-metal.jpg) | 2 Level 7 monsters. Cannot be destroyed by card effects while it has Xyz Material. While this card has Xyz Material, each time your opponent activates a card or effect, inflict 500 damage to your opponent immediately after it resolves. ~~Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 "Red-Eyes" Normal Monster in your Graveyard; Special Summon it.~~ | The deck has very big monsters, so you can remove a lot of life points during the battle phase. If you don't kill your opponent, you can just make Red-Eyes and they will kill themselves. |
+| 0-1 | ![Black Luster Soldier of Chaos](cards/black-luster.jpg) | 3 monsters with different names. If this card was Link Summoned using a Level 7 or higher monster(s) as material, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card destroys an opponent's monster by battle: You can activate 1 of these effects;<br />● This card gains 1500 ATK.<br />● This card can make a second attack during the Battle Phase of your next turn.<br />● Banish 1 card on the field. | This is a big tower that most of the matchups can't pass though if you make it with a Level 7 or higher monster. |
+| 0-1 | ![Number 11 Big Eye](cards/bigeye.jpg) | 2 Level 7 monsters. Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn this effect is activated. | Good spice to add to the deck. It can remove annoying monsters. |
+
+![Kashtira deck](decks/kashtira.png)
 
 ### Budget deck
 
@@ -427,15 +453,6 @@ I did not went too deep into this package, but in general the Tear lists play a 
 | 1 | ![Illegal Knight](cards/illegal-knight.jpg) | During the Main Phase, if you control no monsters, or control an "Adventurer Token" (Quick Effect): You can Special Summon this card from your hand. If you control an "Adventurer Token" (Quick Effect): You can target up to 2 cards your opponent controls; give control of this card to your opponent, and if you do, return that card(s) to the hand. You can only use each effect of "Illegal Knight" once per turn. | Bounce two cards is insane! Also, this will put offline cards like Fenrir, Lightning Storm and Evenly Match. |
 | 1 | ![Rite of Aramesir](cards/rite-aramesir.jpg) | If you control no "Adventurer Token": Special Summon 1 "Adventurer Token" (Fairy/EARTH/Level 4/ATK 2000/DEF 2000), then if you do not control "Fateful Adventure", you can place 1 "Fateful Adventure" from your Deck face-up in your Spell & Trap Zone. You cannot activate the effects of monsters on the field the turn you activate this card, except Special Summoned monsters'. You can only activate 1 "Rite of Aramesir" per turn. | This creates an Adventurer Token that will put online your other Adventure cards. Don't forget that this token is a Level 4 Earth. |
 | 0-1 | ![Fateful Adventure](cards/fateful-adventure.jpg) | Once per turn, the first time a monster you control equipped with an Equip Spell would be destroyed by battle, it is not destroyed. You can only use each of the following effects of "Fateful Adventure" once per turn. During your Main Phase: You can add 1 monster that mentions "Adventurer Token" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions "Adventurer Token" from your Deck, and either add it to your hand or equip it to 1 "Adventurer Token" you control. | Search for Illegal Knight and continue your plays. |
-
-### Kashtira package
-
-| Quantity | Card | Effect | Comment |
-| --- | --- | --- | --- |
-| 1-2-3 | ![Kashtira Fenrir](cards/fenrir.jpg) | If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Fenrir" once per turn. During your Main Phase: You can add 1 "Kashtira" monster from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can target 1 face-up card your opponent controls; banish it, face-down. | You will need Fenrir and TKash to make Dracossack. You can also play some Nessies to play Dracossack because they are Level 7 too. |
-| 1 | ![Kashtira Unicorn](cards/unicorn.jpg) | If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Unicorn" once per turn. During your Main Phase: You can add 1 "Kashtira" Spell from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can look at your opponent's Extra Deck, and if you do, banish 1 monster from it, face-down. | Allows you to search for Birth or Wraitsoth. |
-| 1 | ![Kashtira Birth](cards/birth.jpg) | You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz "Kashtira" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a "Kashtira" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of "Kashtira Birth" once per turn. | Good card advantage card that allows you to clean your opponent's GY and Summon Fenrir/Unicorn/TKash when it was banished with TKash. |
-| 1-2 | ![Pressured Planet Wraitsoth](cards/wraitsoth.jpg) | When this card is activated: You can add 1 "Kashtira" monster from your Deck to your hand. Monsters you control gain 100 ATK/DEF for each different Attribute on the field. ~~If a "Kashtira Shangri-Ira" you control activates an effect (except during the Damage Step): You can target 1 card on the field; destroy it.~~ You can only use this effect of "Pressured Planet Wraitsoth" once per turn. You can only activate 1 "Pressured Planet Wraitsoth" per turn. | Useful to bait an Ash or to search for Ferir or TKash. It also boosts the ATK **and** DEF, so consider it. Normally, you want to play this before Perlereino. |
 
 ### Cherubini package
 
