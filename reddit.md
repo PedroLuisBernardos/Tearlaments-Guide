@@ -272,6 +272,7 @@ All the versions will be explained here in more detail: [https://pedroluisbernar
    * Danger?!
    * Shaddoll
    * Revolution Synchron
+   * Kashtira
 * **Budget deck**
 * OCG Horus
 * OCG Diabellestarr
