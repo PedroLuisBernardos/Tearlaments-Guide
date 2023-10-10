@@ -188,8 +188,8 @@ Gives access to Beatrice to foolish any card you want.
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
 | 2 | ![Destiny HERO - Malicious](cards/malicious.jpg) | You can banish this card from your GY; Special Summon 1 "Destiny HERO - Malicious" from your Deck. | Nothing to say, you need both to make Dangerous. Then, you need to banish one Mali to Summon the other and then make Beatrice with Dangerous and Malicious. Note: if you have one Mali in hand and the other in GY, you will need to fuse using the one in hand. If you don't you will not be able to Summon the one that will be shuffled back. |
-| 0-1 | ![Destiny HERO - Denier](cards/denier.jpg) | If this card is Normal or Special Summoned: You can take 1 of your "Destiny HERO" monsters from your Deck, GY, or that is banished, and place it on top of your Deck. You can only use this effect of "Destiny HERO - Denier" once per turn. If you have a "Destiny HERO" monster on your field or in your GY, other than "Destiny HERO - Denier": You can Special Summon this card from your GY. You can only use this effect of "Destiny HERO - Denier" once per Duel. | This is a good extender. It helps shuffling back your banished Malicious to resummon it again, and it is great with Cross-Sheep. |
-| 0-1 | ![Unchained Soul of Shyama](cards/shyama.jpg) | You can target 1 card you control; destroy it, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Fiend monster, or 1 Set card, you control; destroy it, and if you do, Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use each effect of "Unchained Soul of Shyama" once per turn. | This is a good extender that helps destroying your own cards to give you value. It can pop your Spell/Traps or Kaleido to trigger the GY effect. |
+| 0-1 | ![Destiny HERO - Denier](cards/denier.jpg) | If this card is Normal or Special Summoned: You can take 1 of your "Destiny HERO" monsters from your Deck, GY, or that is banished, and place it on top of your Deck. You can only use this effect of "Destiny HERO - Denier" once per turn. If you have a "Destiny HERO" monster on your field or in your GY, other than "Destiny HERO - Denier": You can Special Summon this card from your GY. You can only use this effect of "Destiny HERO - Denier" once per Duel. | This is a good extender. It helps shuffling back your banished Malicious to resummon it again, and it is great with Cross-Sheep. Check the [Denier combo](#denier-power) to understand it more. |
+| 0-1 | ![Unchained Soul of Shyama](cards/shyama.jpg) | You can target 1 card you control; destroy it, then you can destroy 1 Spell/Trap on the field. If this card is in your GY: You can target 1 Fiend monster, or 1 Set card, you control; destroy it, and if you do, Special Summon this card, but place it on the bottom of the Deck when it leaves the field. You can only use each effect of "Unchained Soul of Shyama" once per turn. | This is a good extender that helps destroying your own cards to give you value. It can pop your Spell/Traps or Kaleido to trigger the GY effect. Check the [Shyama test hand](#shyama-utility) example to understand it more. |
 | 0-1 | ![Fiendish Rhino Warrior](cards/fiendish-rhino.jpg) | Fiend monsters you control, except "Fiendish Rhino Warrior", cannot be destroyed by battle or card effects. If this card is sent to the GY: You can send 1 Fiend monster from your Deck to the GY, except "Fiendish Rhino Warrior". You can only use this effect of "Fiendish Rhino Warrior" once per turn. | This is a good extender if you play Shyama **and** Helshaddoll Hollow. |
 | 0-1-2-3 | ![Bystial Druiswurm](cards/druiswurm.jpg) | You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent from the field to the GY: You can target 1 Special Summoned monster your opponent controls; send it to the GY. You can only use each effect of "Bystial Druiswurm" once per turn. | Depending on the meta, this can be very good mainboard. But normally, you play it side. |
 | 1 | ![Destiny HERO - Dangerous](cards/dangerous.jpg) | 1 "Destiny HERO" monster + 1 DARK Effect Monster. (Quick Effect): You can discard 1 card; send 1 "Destiny HERO" monster from your hand or Deck to the GY, and if you do, "Destiny HERO" monsters you control gain 200 ATK for each "Destiny HERO" monster in your GY until the end of this turn. You can only use this effect of "Destiny HERO - Dangerous" once per turn. | I don't like to use the Quick Effect to get to Malicious since it discards as cost and not as effect, but sometimes you have no choice. |
@@ -555,6 +555,16 @@ So, you normally want a Level 4 and a Level 7 on board. You target the Level 4 m
 
 <a href="https://www.duelingbook.com/replay?id=1000060-52677412" target="_blank">https://www.duelingbook.com/replay?id=1000060-52677412</a>
 
+### Shyama utility
+
+Little example on why Shyama is good.
+
+<a href="https://www.duelingbook.com/replay?id=1000060-53853909" target="_blank">https://www.duelingbook.com/replay?id=1000060-53853909</a>
+
+### Denier power
+
+<a href="https://www.duelingbook.com/replay?id=1000060-53854489" target="_blank">https://www.duelingbook.com/replay?id=1000060-53854489</a>
+
 ### Blackwing combo
 
 <a href="https://www.duelingbook.com/replay?id=1000060-53436253" target="_blank">https://www.duelingbook.com/replay?id=1000060-53436253</a>
@@ -584,9 +594,23 @@ In this example I was lucky and had Poly, so I could make Guardian Chimera and c
 
 <a href="https://www.duelingbook.com/replay?id=1000060-52665534" target="_blank">https://www.duelingbook.com/replay?id=1000060-52665534</a>
 
+### 5. No King of the Swamp list
+
+<a href="https://www.duelingbook.com/replay?id=1000060-53853274" target="_blank">https://www.duelingbook.com/replay?id=1000060-53853274</a>
+
 ## Example of endboard
 
 The endboards will vary a lot depending on what you mill. Supposing your opponent has no interactions and you are going first, here are some examples of endboards you could have.
+
+### No King of the Swamp
+
+You can play with or without Toad. You will normally finish on Baronne + Beatrice and other cards like Sulliek/Perlereino/Shufflers. Also, during your opponent's turn you can make Kaleido/Dragostapelia/Winda with Beatrice.
+
+![Endboard no KOTS](boards/no-kots-1.png)
+
+During your opponent's turn you can manage to get back your TKash with Toad. Continue milling. Then, with Beatrice pitch a girl and make Winda/Drasgostapelia/Kaleido.
+
+![Endboard no KOTS](boards/no-kots-2.png)
 
 ### Revolution
 

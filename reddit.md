@@ -387,6 +387,20 @@ So, you normally want a Level 4 and a Level 7 on board. You target the Level 4 m
 
 [https://www.duelingbook.com/replay?id=1000060-52677412](https://www.duelingbook.com/replay?id=1000060-52677412)
 
+## Shyama utility
+
+Little example on why Shyama is good.
+
+[https://www.duelingbook.com/replay?id=1000060-53853909](https://www.duelingbook.com/replay?id=1000060-53853909)
+
+### Denier power
+
+[https://www.duelingbook.com/replay?id=1000060-53854489](https://www.duelingbook.com/replay?id=1000060-53854489)
+
+## Blackwing combo
+
+[https://www.duelingbook.com/replay?id=1000060-53436253](https://www.duelingbook.com/replay?id=1000060-53436253)
+
 ## 🤳 Test hands (videos)
 
 ## 1. Opponent Ashes my Fenrir
@@ -411,6 +425,10 @@ In this example I was lucky and had Poly, so I could make Guardian Chimera and c
 ## 4. Okay board with the Synchron version
 
 [https://www.duelingbook.com/replay?id=1000060-52665534](https://www.duelingbook.com/replay?id=1000060-52665534)
+
+## 5.No King of the Swamp version
+
+[https://www.duelingbook.com/replay?id=1000060-53853274](https://www.duelingbook.com/replay?id=1000060-53853274)
 
 ## 🔚 Example of endboard
 
