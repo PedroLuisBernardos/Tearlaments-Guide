@@ -17,8 +17,8 @@
   - [Kashtira](#kashtira-package)
 - Other versions
   - [Budget](#budget-deck)
-  - [OCG Horus](#ocg-horus)
-  - [OCG Diabellestarr](#ocg-synchron-diabellestarr)
+  - [Horus](#ocg-horus)
+  - [Diabellestarr](#ocg-synchron-diabellestarr)
   - Less popular versions
     - [Lunalight](#lunalight-deck)
     - [P.U.N.K.](#punk-deck)
@@ -334,17 +334,21 @@ For this version I have cut the big cards: Field Spells, Fenrir, Guardian Chimer
 
 ![Budget deck](decks/budget.png)
 
-### OCG Horus
+### Horus
 
 The Horus support will be good for this deck. It allows you to play The Zombie Vampire, which is a crazy Rank 8 because of this effect:
 
 > You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field.
 
-The package is quite small (3 DARK horus, 1 WIND, 1 Sarcophagus). You can play more, but it might brick. The list needs to be refined, but here is the idea:
+The package is quite small (3 DARK horus, 1 WIND, 1-2 Sarcophagus). You can play more, but it might brick. Fiendish Rhino is also a nice addition to this.
+
+The list needs to be refined, but here is an idea with and without KotS:
+
+![Horus deck](decks/horus-no-king.png)
 
 ![Horus deck](decks/horus.png)
 
-### OCG Synchron Diabellestarr
+### Synchron Diabellestarr
 
 This supports will give you access to more Rank 7 and Synchro plays. The package is quite small (3 spells, 1 monster, 1 jet synchron). This list needs to be refined, but here is the idea:
 
