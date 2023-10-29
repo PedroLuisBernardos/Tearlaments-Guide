@@ -2,23 +2,19 @@
 
 **This guide is for TCG only.**
 
-**Last update:** 2023-10-16 (after Dortmund YCS).
-
-> Many people are starting cutting the King of the Swamp package: Rullkallos, Grapha, Chimera, Poly and 3x KotS. I think it is ok because it is a little big bricky. You might consider cutting it to, but be careful of Nibiru now!
+**Last update:** 2023-10-25 (post AGOV).
 
 - [Why play Tearlaments?](#why-play-tearlaments)
 - [Tearlaments core cards breackdown](#tearlaments-core-cards-breakdown)
 - Popular versions
-  - [Hero](#hero-package)
-  - [Toad](#toad-package)
-  - [Winda](#winda-package)
-  - [Shaddoll](#shaddoll-deck)
-  - [Revolution](#revolution-deck)
-  - [Kashtira](#kashtira-package)
+  - [King of the Swamp](#king-of-the-swamp-version)
+  - [Destiny Heroes - Beatrice](#destiny-hero-version)
+  - [Horus](#horus)
+  - [Shaddoll](#shaddoll-version)
+  - [Revolution](#revolution-version)
 - Other versions
   - [Budget](#budget-deck)
-  - [Horus](#ocg-horus)
-  - [Diabellestarr](#ocg-synchron-diabellestarr)
+  - [Kashtira](#kashtira-version)
   - Less popular versions
     - [Lunalight](#lunalight-deck)
     - [P.U.N.K.](#punk-deck)
@@ -68,16 +64,16 @@ Don't forget that all the girls are once per turn. So, maximum 3 fusions each tu
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
-| 1 | ![Tearlaments Merrli](cards/merrli.jpg) | If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Merrli" once per turn. | Merrli is an okay Normal Summon that will mill you three cards. She is also a Level 2 monster, so you can pitch her with Spright Sprind. If you are asking how to make Sprind without using her, it's using a Link 2 or even Diviner: `2 monsters, including a Level/Link 2 monster.` |
+| 1 | ![Tearlaments Merrli](cards/merrli.jpg) | If this card is Normal or Special Summoned: You can send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Merrli" once per turn. | Merrli is an okay Normal Summon that will mill you three cards. She is also a Level 2 monster, so you can pitch her with Spright Sprind (you make Sprind with a Link-2). |
 | 1 | ![Tearlaments Havnis](cards/havnis.jpg) | When your opponent activates a monster effect on the field (Quick Effect): You can Special Summon this card from your hand, and if you do, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Havnis" once per turn. | A great Hand Trap that allows turn 0 plays and mill 3. Also, your opponent can't stop the mill once the effect has resolved; the Summon and the mill trigger on the same effect. |
-| 1 | ![Tearlaments Scheiren](cards/scheiren.jpg) | During your Main Phase: You can Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Scheiren" once per turn. | The best of the sisters. She will not only mill 3 but also send another monster in your hand by effect, so it will activate it's effects when send to the GY. You can also pitch a brick like Malicious or a Shuffler. Finally, your opponent can't stop the mill once the effect has resolved; the Summon and the mill trigger on the same effect.<br /><br />One interesting play that you can do with Scheiren and TKash if you don't have any other monsters in hand is to activate the effect of Scheiren (*cl1*) and then TKash (*cl2*). First you will banish something to Summon TKash. Then, Scheiren checks if you have a monster on activation (so it was ok when you activated it, you had TKash), but now, since you have no monsters in hand, Scheiren will just Summon and will not mill since you can't discard any monster. This interaction is due to the **then** in this sentence: `Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY` |
+| 1 | ![Tearlaments Scheiren](cards/scheiren.jpg) | During your Main Phase: You can Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY. If this card is sent to the GY by card effect (except during the Damage Step): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by placing Fusion Materials mentioned on it from your hand, field, and/or GY, including this card from your GY, on the bottom of the Deck in any order. You can only use each effect of "Tearlaments Scheiren" once per turn. | The best of the sisters. She will not only mill 3 but also send another monster in your hand by effect, so it will activate it's effects when send to the GY. You can also pitch a brick like Malicious, Shyama, a Shuffler... Finally, your opponent can't stop the mill once the effect has resolved; the Summon and the mill trigger on the same effect.<br /><br />One interesting play that you can do with Scheiren and TKash if you don't have any other monsters in hand is to activate the effect of Scheiren (*cl1*) and then TKash (*cl2*). First you will banish something to Summon TKash. Then, Scheiren checks if you have a monster on activation (so it was ok when you activated it, you had TKash), but now, since you have no monsters in hand, Scheiren will just Summon and will not mill since you can't discard any monster. This interaction is due to the **then** in this sentence: `Special Summon this card from your hand, and if you do, send 1 monster from your hand to the GY, then, send the top 3 cards of your Deck to the GY` |
 
 ### The other Tear monsters
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
-| 2-3 | ![Tearlaments Reinoheart](cards/reino.jpg) | If this card is Normal or Special Summoned: You can send 1 "Tearlaments" monster from your Deck to the GY, except "Tearlaments Reinoheart". If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field), and if you do, send 1 "Tearlaments" monster from your hand to the GY. You can only use each effect of "Tearlaments Reinoheart" once per turn. | A great Normal Summon that can pitch a girl or for TKash if you have nothing else to send. He can revive when he's milled (and be banished after), this lines comes up a lot when you are trying to make Rank 4 plays.<br /><br />**Free Reino revive without discarding:** Reino only checks if you have Tear cards to discard on activation. If on resolution you don't have any Tear card to discard, the effect will still resolve. So, for example, you mill Reino, you only have a TKash as your only Tearlaments card in hand. You can *cl1* Reino, *cl2* TKash. TKash will be Summoned first, then Reino. If you dont have any other Tearlaments cards in hand, you will not need to discard anything because of Reino. He only checks if you have something to discard on activation. Be careful in the case you only have TKash in hand, and you mill for example Reino and Sulliek. If you do *cl1* Reino, *cl2* Sulliek and *cl3* TKash. You will need to discard the card searched by Sulliek because when Reino arrives on the field you have a Tear card to discard.<br /><br />**Avoid Reino banish:** if you use Reino effect to revive, he will Normally be banished when he leaves the battlefield: `If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field).` But, if you use him for a Rank 4 play, he will not be banished. |
-| 3 | ![Tearlaments Kashtira](cards/tkash.jpg) | During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 "Kashtira" or "Tearlaments" card from your hand or GY. If this card is Normal or Special Summoned: You can send the top 3 cards of either player's Deck to the GY. If this card is sent to the GY by card effect: You can send the top 2 cards of your Deck to the GY. You can only use each effect of "Tearlaments Kashtira" once per turn. | Havnis 2.0. TKash allows turn 0 plays and is great to give consistency to this deck: you will mill on Summon and when sent to GY. It is also searchable with Fenrir. The only problem is that is not an Aqua nor a DARK monster.<br /><br />Always banish a Trap as soon as possible with TKash if you are playing Grief: if you banish a Trap with TKash and you mill Grief, that Trap will return to your hand: `If this card is sent to the GY by card effect: You can target 1 of your banished "Tearlaments" Traps; add it to your hand.`<br /><br />Please read TKash and don't give information to your opponent for free. TKash banishes a card if it is Summoned. You don't need to banish when you activate its effect in your hand; so don't give information for free.<br /><br />If you expect your opponent is playing Aussa the Earth Charmer, Immovable, banish Fenrir with TKash; you don't want to give your opponent a free Fenrir. |
+| 2-3 | ![Tearlaments Reinoheart](cards/reino.jpg) | If this card is Normal or Special Summoned: You can send 1 "Tearlaments" monster from your Deck to the GY, except "Tearlaments Reinoheart". If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field), and if you do, send 1 "Tearlaments" monster from your hand to the GY. You can only use each effect of "Tearlaments Reinoheart" once per turn. | A great Normal Summon that can pitch a girl or for TKash if you have nothing else to send. He can revive himself when he's milled (and be banished after), this lines comes up a lot when you are trying to make Rank 4 plays.<br /><br />**Free Reino revive without discarding:** Reino only checks if you have Tear cards to discard on activation. If on resolution you don't have any Tear card to discard, the effect will still resolve. So, for example, you mill Reino, you only have a TKash as your only Tearlaments card in hand. You can *cl1* Reino, *cl2* TKash. TKash will be Summoned first, then Reino. If you dont have any other Tearlaments cards in hand, you will not need to discard anything because of Reino. He only checks if you have something to discard on activation. Be careful in the case you only have TKash in hand, and you mill for example Reino and Sulliek. If you do *cl1* Reino, *cl2* Sulliek and *cl3* TKash. You will need to discard the card searched by Sulliek because when Reino arrives on the field you have a Tear card to discard.<br /><br />**Avoid Reino banish:** if you use Reino effect to revive, he will Normally be banished when he leaves the battlefield: `If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field).` But, if you use him for a Rank 4 play, he will not be banished. |
+| 3 | ![Tearlaments Kashtira](cards/tkash.jpg) | During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 "Kashtira" or "Tearlaments" card from your hand or GY. If this card is Normal or Special Summoned: You can send the top 3 cards of either player's Deck to the GY. If this card is sent to the GY by card effect: You can send the top 2 cards of your Deck to the GY. You can only use each effect of "Tearlaments Kashtira" once per turn. | Havnis 2.0. TKash allows turn 0 plays and is great to give consistency to this deck: you will mill on Summon and when sent to GY. It is also searchable with Fenrir. The only problem is that is not an Aqua nor a DARK monster.<br /><br />Always banish a Trap as soon as possible with TKash if you are playing Grief: if you banish a Trap with TKash and you mill Grief, that Trap will return to your hand: `If this card is sent to the GY by card effect: You can target 1 of your banished "Tearlaments" Traps; add it to your hand.` But be careful if you are playing Heartbeat which returns a Trap from the GY to the hand!<br /><br />Please read TKash and don't give information to your opponent for free. TKash banishes a card if it is Summoned. You don't need to banish when you activate its effect in your hand; so don't give information for free.<br /><br />If you expect your opponent is playing Aussa the Earth Charmer, Immovable, banish Fenrir with TKash; you don't want to give your opponent a free Fenrir. |
 
 #### Reino or Diviner? Which one to Summon?
 
@@ -116,8 +112,28 @@ In general, in this situation, I think that if you can play without that Reino, 
 | 1 | ![Mudragon of the Swamp](cards/mudragon.jpg) | 2 monsters with the same Attribute but different Types. Your opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn. | Mostly a Super Poly target, but can also help to protect your DARK monsters or even make Toad with Reino. |
 | 0-1 | ![Garura, Wings of Resonant Life](cards/garura.jpg) | 2 monsters with the same Type and Attribute, but different names. Any battle damage your opponent takes from battles involving this card is doubled. If this card is sent to the GY: You can draw 1 card. You can only use this effect of "Garura, Wings of Resonant Life" once per turn. | This is mostly a Super Poly target. Can also help in very niche circumstance to make Beatrice. Don't forget that when it attacks the opponent it has doubled attack (Perlereino, Wraitsoth and Cross-Sheep modify it). |
 | 1 | ![Predaplant Dragostapelia](cards/dragostapelia.jpg) | 1 Fusion Monster + 1 DARK monster. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monsters that have Predator Counters. | Another Super Poly target, but can also be made to kill Xyz or Spright decks by changing the monster's Level. Don't forget that when Dragostapelia will leave the field the monster will not be negated anymore, but it's Level will still be 1. |
+| 1 | ![S:P Little Knight](cards/sp.jpg) | 2 Effect Monsters. If this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of "S:P Little Knight" once per turn. | The new best generic Link 2. This is a crazy card that can protect your own monsters from target negation/destruction and can reset Baronne de Fleur's negate. It is not mandatory, but certainly very very strong in all the decks. |
 | 1 | ![Time Thief Redoer](cards/redoer.jpg) | 2 Level 4 monsters. Once per turn, during the Standby Phase: You can attach the top card of your opponent's Deck to this card as material. (Quick Effect): You can detach up to 3 different types of materials from this card, then apply the following effect(s) depending on what was detached. ● Monster: Banish this card until the End Phase. ● Spell: Draw 1 card. ● Trap: Place 1 face-up card your opponent controls on the top of the Deck. You can only use this effect of "Time Thief Redoer" once per turn. | Your best Rank 4 monster that will trigger Shreiren fusion (because it sends as an effect). You can steal important combo pieces from your opponent's deck, and can trigger Scheiren during your opponent's turn.<br /><br />**Don't steal your opponent's cards. Always check before pickup up your cards.** |
+
+#### Baronne package
+
+Normally, all the decks run at least one omni negate monster. Barone could be a good option.
+
+| Quantity | Card | Effect | Comment |
+| --- | --- | --- | --- |
+| 2-3 | ![Diviner of the Herald](cards/diviner.jpg) | If this card is Normal or Special Summoned: You can send 1 Fairy monster from your Deck or Extra Deck to the GY, and if you do, increase this card's Level by that monster's Level, until the end of this turn. If this card is Tributed: You can Special Summon 1 Level 2 or lower Fairy monster from your hand or Deck, except "Diviner of the Herald". You can only use each effect of "Diviner of the Herald" once per turn. | Good Normal Summon that can send a Miller and become Level 6. You can then make Baronne with a Level 4 or Beatrice with a Level 6. If it gets negated, you can use it to make Sprind and then send Merrli.<br /><br />You can send another Diviner to make Rank 4 plays.<br /><br />The tribute effect would only matter if you are playing Herald of Orange Light. |
+| 0-1 | ![Destrudo the Lost Dragon's Frisson](cards/destrudo.jpg) | If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, and if you do, this card's Level is reduced by the Level of the targeted monster, also place this card on the bottom of the Deck if it leaves the field. You can only use this effect of "Destrudo the Lost Dragon's Frisson" once per turn. | The best card to lose on time. Also a great tuner that can be revived from the GY (or can even make Mudragon). You can see the combos [in the combo section](#destrudo-in-gy-combo). |
 | 1 | ![Baronne de Fleur](cards/baronne.jpg) | 10 stars. 1 Tuner + 1+ non-Tuner monsters. Once per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of "Baronne de Fleur" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster. | Incredible omni-negate that can pop your own cards to extend your plays. Also, once you have used your omni, you can revive any important monster in your GY (except Grapha) to continue your plays. |
+
+#### Toad package
+
+Normally, all the decks run at least one omni negate monster. Toad could be a good option. For this package you need to play some Dark monsters to access more easily Mudragon. So, they could be for example the Destiny Hero package, some Bystials, Radian, some Shaddolls, etc.
+
+| Quantity | Card | Effect | Comment |
+| --- | --- | --- | --- |
+| 0-1 | ![Sword Serpent](cards/serpent.jpg) | If this card is sent to the GY by a card effect: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Night Sword Serpent" once per turn. | Great extender to go for Toad or Link plays. Could be a brick, that's why many people don't run it. |
+| 1 | ![Bahamut Shark](cards/bahamut.jpg) | 2 Level 4 WATER monsters. Once per turn: You can detach 1 material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn. | Make it with two Reinos or Reino and Mudragon. Note: you can't attack then activate its effect. |
+| 1 | ![Toadly Awesome](cards/toad.jpg) | 2 Level 2 Aqua monsters. Once per turn, during the Standby Phase: You can detach 1 material from this card; Special Summon 1 "Frog" monster from your Deck. Once per turn, when your opponent activates a Spell/Trap Card, or monster effect (Quick Effect): You can send 1 Aqua monster from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the GY: You can target 1 WATER monster in your GY; add it to your hand. | Great omni. It's an Aqua so it can be used to make Kaleido. Also, when it dies, it will recycle TKash or Reino. Finally, since Bahamuth is not a threat, if it's still alive on your turn and you shuffled back Toad, you can make it again. |
 
 #### Perlereino/Baronne pop your own cards
 
@@ -127,7 +143,7 @@ The easiest card to pop is Kaleido-Heart, because he will then return and mill a
 
 Be careful if you just summoned Kaleido under Cross-Sheep and want to pop it. You **need** to chain Cross-Sheep on *cl2* and Perlereino on *cl1* because if you don't, Kaleido will not be there when Cross-Sheep will check if there is a monster under its arrow.
 
-### The rest
+### Ishizus and Trivikarma
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
@@ -153,7 +169,19 @@ Wait until your names are in the bottom to shuffle your deck. You have many ways
 
 Let's say for example that you want to shuffle back your Reino in your GY (and nothing else), and your opponent has nothing good in his GY. You can always shuffle back useless cards to hurt the consistency of their deck.
 
-### King of the Swamp package
+### Core
+
+These are the core cards for the deck. Now you will need to chose the omni in the extra deck (Toad, Baronne or both) and also a main version (explained in the next section).
+
+![Core cards](decks/core.png)
+
+## Main versions and packages
+
+For most of the versions here the sideboard is pretty generic. It can be modified depending on the meta.
+
+### King of the Swamp version
+
+This was the old version played during the Kashtira format. It is still very good but some people started cutting the King because it can brick sometimes.
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
@@ -173,21 +201,9 @@ Normally, Grapha is better: it is bigger and can negate more things. It also tri
 - If you know Rulkallos will be enough and you will gain more advantage of its revive.
 - If you need to protect your other Aqua monsters (specially Toad).
 
-### Core
+### Destiny Hero version
 
-This would be the core cards. You can easily add S:P Little Night and Dharc as mandatory cards too.
-
-![Core cards](decks/core.png)
-
-## Versions
-
-For most of the versions here the sideboard is pretty generic. It can be modified depending on the meta.
-
-### Hero package
-
-Gives access to Beatrice to foolish any card you want.
-
-This seems to be the best package to always consider.
+This is the new version players started playing when Unchained started toping. It gives access to Beatrice to foolish any card you want.
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
@@ -200,19 +216,9 @@ This seems to be the best package to always consider.
 | 1 | ![Beatrice, Lady of the Eternal](cards/beatrice.jpg) | 2 Level 6 monsters. ~~You can also Xyz Summon this card by sending 1 "Burning Abyss" monster from your hand to the GY, then using 1 "Dante" monster you control as material. (Transfer its materials to this card.) If Summoned this way, the following effect cannot be activated this turn.~~ Once per turn (Quick Effect): You can detach 1 material from this card; send 1 card from your Deck to the GY. If this card in your possession is destroyed by your opponent's card and sent to your GY: You can Special Summon 1 "Burning Abyss" monster from your Extra Deck, ignoring its Summoning conditions. | You need two Level 6 to make her. Normally you will use Malicious and Dangerous, but know that Garura and Diviner are also Level 6. Her main purpose is to pitch any card that will help you to gain advantage. If you have nothing to pitch, you can keep her materials for Spright Sprind. Also, always remove Dangerous first, it will give you a fusion in your GY in case you need to make Dragostapelia. |
 | 0-1 | ![Wollow, Founder of the Drudge Dragons](cards/wollow.jpg) | 2+ Level 6 monsters. Monsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;<br />● 1: Return it to the Deck.<br />● 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.<br />You can only use this effect of "Wollow, Founder of the Drudge Dragons" once per turn. | Another possible Rank 6 you can consider. |
 
-### Toad package
-
-Gives access to another omni negate.
-
-| Quantity | Card | Effect | Comment |
-| --- | --- | --- | --- |
-| 3 | ![Radian, the Multidimensional Kaiju](cards/radian.jpg) | You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a "Kaiju" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 "Kaiju" monster. ~~Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; Special Summon 1 "Radian Token" (Fiend/DARK/Level 7/ATK 2800/DEF 0), but it cannot be used as Synchro Material.~~ | You need more DARK monsters to make Mudragon of the Swamp with your girls, and then make Bahamuth Shark with it and Reino. Don't play Gameciel unless you want more Kaijus, but I don't think that it's needed. |
-| 1 | ![Bahamut Shark](cards/bahamut.jpg) | 2 Level 4 WATER monsters. Once per turn: You can detach 1 material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn. | Make it with two Reinos or Reino and Mudragon. Note: you can't attack then activate its effect. |
-| 1 | ![Toadly Awesome](cards/toad.jpg) | 2 Level 2 Aqua monsters. Once per turn, during the Standby Phase: You can detach 1 material from this card; Special Summon 1 "Frog" monster from your Deck. Once per turn, when your opponent activates a Spell/Trap Card, or monster effect (Quick Effect): You can send 1 Aqua monster from your hand or face-up field to the GY; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the GY: You can target 1 WATER monster in your GY; add it to your hand. | Great omni. It's an Aqua so it can be used to make Kaleido. Also, when it dies, it will recycle TKash or Reino. Finally, since Bahamuth is not a threat, if it's still alive on your turn and you shuffled back Toad, you can make it again. |
-
 ### Winda package
 
-Gives access to a strong floodgate that stops Special Summons.
+You can add Winda to almost any version you want. You normally want Shaddoll Beast, and if you want another one like Squamata or Hollow. It gives access to a strong floodgate that stops Special Summons.
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
@@ -223,12 +229,13 @@ Gives access to a strong floodgate that stops Special Summons.
 
 ### Danger package
 
-Gamble more to gain more consistency to the deck. Allow more Rank 4 and Rank 7 plays. Are also Toad targets.
+Gamble more to gain more consistency to the deck. Allow more Rank 4 and Rank 7 plays. Also, Nessie is an Aqua/Dark so it has many synergies with the girls.
 
 | Quantity | Card | Effect | Comment |
 | --- | --- | --- | --- |
 | 2-3 | ![Danger Nessie](cards/nessie.jpg) | You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not "Danger! Nessie!", Special Summon 1 "Danger! Nessie!" from your hand, and if you do, draw 1 card. If this card is discarded: You can add 1 "Danger!" card from your Deck to your hand, except "Danger! Nessie!". You can only use this effect of "Danger! Nessie!" once per turn. | Great card to draw or to Summon Mothman from deck. It's also a DARK Aqua Level 7: so you can make Garura and Rank 7 plays with it. |
 | 1-2 | ![Danger Mothman](cards/mothman.jpg) | You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not "Danger! Mothman!", Special Summon 1 "Danger! Mothman!" from your hand, and if you do, draw 1 card. If this card is discarded: You can have both players draw 1 card, then both players discard 1 card. You can only use this effect of "Danger! Mothman!" once per turn. | It's a DARK Level 4 and can maybe help you getting rid of a brick in hand. It can also get you into Rank 4 plays and Mudragon. |
+| 0 | ![Gokipole](cards/gokipole.jpg) | If this card is sent to the GY: You can add 1 Level 4 Insect monster from your Deck to your hand, then, if you added a Normal Monster, you can Special Summon it, then you can destroy 1 monster on the field with ATK greater than or equal to that Special Summoned monster's. You can only use this effect of "Gokipole" once per turn. | Some people in the OCG played this with Mothman, but I am not sur of the utility in the TCG. I will still mention it. |
 
 #### Nessie or Mothman first?
 
@@ -240,30 +247,42 @@ Some ways to think it, but it always depends on your build and your board:
 - If you have another Mothman in the deck, and you have a good card to discard in your hand (like Trivikarma, Malicious, a Shuffler...) you can use Mothman first, because if you hit itself you can always discard that card. But, if you hit Nessie, you will only have a Level 4 in play, a dead card in hand and a draw.
 - Do you need a bigger body? If so, you should do Nessie first.
 
-#### Mix the packages
+#### Decklists
 
 All of those packages complement well each other and you can mix them. For example:
 
 - Malicious/Shaddoll/any Danger and a Tear girl can make Mudragon to have access to Bahamuth/Toad.
 - Beatrice can pitch a Shaddoll to have access to Winda. See the combo in the [combo section](#example-of-endboard-with-beatrice-and-winda).
 
-Here are few examples:
+#### Here are some examples:
 
-##### No King of the Swamp
+##### Beatrice + Winda + Baronne
 
 ![Destiny 0 deck](decks/no-king-no-toad.png)
 
+##### Beatrice + Winda + Baronne + Toad
+
 ![Destiny 1 deck](decks/no-king-toad.png)
 
-##### With King of the Swamp
+##### King of the Swamp + Winda + Baronne + Toad
 
 ![Destiny 2 deck](decks/winda-toad.png)
 
+##### King of the Swamp + Winda + Baronne
+
 ![Destiny 3 deck](decks/dangers.png)
+
+##### King of the Swamp + Beatrice + Winda + Baronne + Toad
 
 ![Destiny 4 deck](decks/winda-hero-toad.png)
 
-### Shaddoll deck
+### Horus
+
+![Horus deck](decks/horus-no-king.png)
+
+![Horus deck](decks/horus.png)
+
+### Shaddoll version
 
 The objective of this version is to always garantee a Winda. It takes lots of places on your extra deck, but its pretty consistent. You will play the Winda package + some extra cards listed below. See the combo in the [combo section](#shaddoll-combo).
 
@@ -285,7 +304,7 @@ You can also play a small Shaddoll package with only Shekinaga and 3 Shaddoll Fu
 
 ![Shaddoll Toad deck](decks/shaddoll-toad.png)
 
-### Revolution deck
+### Revolution version
 
 This version can almost always guarantee a Field Spell (with Ancient Fairy then Amritara). If you already have enough gas, instead of Amritara you can make Crystal Wing Synchro Dragon to have another negate on board.
 
@@ -306,6 +325,7 @@ You can build it in many ways. Here are some examples:
 #### Revolution
 
 ![Revolution](decks/revolution.png)
+
 #### Revolution Toad
 
 ![Revolution Toad deck](decks/revolution-toad.png)
@@ -314,7 +334,7 @@ You can build it in many ways. Here are some examples:
 
 ![Revolution Shaddoll deck](decks/revolution-shaddoll.png)
 
-### Kashtira package
+### Kashtira version
 
 Other cards like Reiseheart or Theosis make the deck way more explosive, but the mills are very bad. You have to make some choices during your deckbuild. This is an example of the proportions you can run:
 
@@ -334,35 +354,19 @@ Other cards like Reiseheart or Theosis make the deck way more explosive, but the
 
 ### Budget deck
 
-For this version I have cut the big cards: Field Spells, Fenrir, Guardian Chimera, Garura, Super Poly. Tearlaments Kashtira is quite expensive too but it's mandatory. I've also added one Perlereino because it's super strong, but you can replace it and Terraforming with more Dangers for example.
+For this version I have cut the big cards: Tearlaments Kashtira, Field Spells, Fenrir, Diviner and Guardian Chimera.
+
+The deck will not be great because you are missing your field spells and TKash but this is the idea.
 
 ![Budget deck](decks/budget.png)
-
-### Horus
-
-The Horus support will be good for this deck. It allows you to play The Zombie Vampire, which is a crazy Rank 8 because of this effect:
-
-> You can detach 1 material from this card; each player sends the top 4 cards from their Deck to the GY, then if any monsters were sent to either GY by this effect, you can Special Summon 1 of those monsters to your field.
-
-The package is quite small (3 DARK horus, 1 WIND, 1-2 Sarcophagus). You can play more, but it might brick. Fiendish Rhino is also a nice addition to this.
-
-The list needs to be refined, but here is an idea with and without KotS:
-
-![Horus deck](decks/horus-no-king.png)
-
-![Horus deck](decks/horus.png)
-
-### Synchron Diabellestarr
-
-This supports will give you access to more Rank 7 and Synchro plays. The package is quite small (3 spells, 1 monster, 1 jet synchron). This list needs to be refined, but here is the idea:
-
-![Diabellestarr deck](decks/revolution-diab.png)
 
 ---
 
 ### Less popular versions
 
 I will present here some other versions that can be played with Tear, but I will not add too much info about those decks. Also, they will not have their combo section unless the version becomes more popular.
+
+These versions are not up-to-date nor tested.
 
 #### Lunalight deck
 
@@ -385,6 +389,10 @@ I'll leave it to you to explore the classic P.U.N.K. combos since this is a Tear
 I've found no recent builds for a Branded-Tear deck. I managed to build this. I don't know if it's good enough, and it can clearly be refined. I'll leave it to you to explore the classic Branded. combos since this is a Tear guide. But here is an idea of the deck:
 
 ![Branded deck](decks/branded.png)
+
+I also saw a similar deck to this one finished 4-0 in a locals, I'm sharing it too. It's mostly a Branded Despia deck with a little bit of Tear.
+
+![Branded deck](decks/branded-2.png)
 
 #### Mikanko package
 
@@ -488,10 +496,6 @@ You can mix this package with the Kashtira package very easily. See combo in the
 | 1 | ![Visas Starfrost](cards/visas.jpg) | If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of "Visas Starfrost" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied). | This will also give your Heartbeat and Trivikarma an extra effect. Don't forget to trigger the GY effect of the monster you destroyed. |
 | 1 | ![Vicious Astraloud](cards/vicious.jpg) | "Visas Starfrost" + ~~1 monster with 1500 ATK/2100 DEF~~ "Tearlaments Reinoheart". Must be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. Cannot be destroyed by battle. If this card is Special Summoned: You can target 1 other monster on the field; destroy it, and if you do, this card gains ATK equal to half of that monster's original ATK or DEF (whichever is higher). | You **can't** use King of the Swamp nor Beastking of the Swamps to replace Visas Startfrost, since this is not a fusion but a contact fusion. This card is just a win-more, it's great to have on field. |
 
-### The spice list
-
-![Spicy cards](decks/spice.png)
-
 ## Sideboard
 
 ### Sideboard cards in your mainboard
@@ -579,7 +583,19 @@ Little example on why Shyama is good.
 
 ## Test hands (videos)
 
-### 1. Opponent Ashes my Fenrir
+### Some explained test hands with this deck
+
+In these three replays I explain all my choices, all the reflection I had in my head, all the reasons why I did and I didn't some choices, etc.
+
+![Deck](decks/test-hand.jpg)
+
+> Note: a little mistake was made in Replays 1 and 3. In both replays I had Nessie in play and Summoned illegally a Denier to make Cross-Sheep. Just ignore that Sheep and imagine Nessie stayed alone. I am sorry for this mistake, but I do believe that it doesn't change much; all the rest of the information is useful for new players.
+
+1. <a href="https://www.duelingbook.com/replay?id=1000060-54045873" target="_blank">https://www.duelingbook.com/replay?id=1000060-54045873</a>
+1. <a href="https://www.duelingbook.com/replay?id=1000060-54046231" target="_blank">https://www.duelingbook.com/replay?id=1000060-54046231</a>
+1. <a href="https://www.duelingbook.com/replay?id=1000060-54046546" target="_blank">https://www.duelingbook.com/replay?id=1000060-54046546</a>
+
+### Opponent Ashes my Fenrir
 
 In this example, I have two choices:
 
@@ -594,15 +610,15 @@ In this example I was lucky and had Poly, so I could make Guardian Chimera and c
 
 <a href="https://www.duelingbook.com/replay?id=1000060-52665413" target="_blank">https://www.duelingbook.com/replay?id=1000060-52665413</a>
 
-### 3. Simple test hand finishing on Fenrir + Toad + follow-up
+### Simple test hand finishing on Fenrir + Toad + follow-up
 
 <a href="https://www.duelingbook.com/replay?id=1000060-52665298" target="_blank">https://www.duelingbook.com/replay?id=1000060-52665298</a>
 
-### 4. Okay board with the Synchron version
+### Okay board with the Synchron version
 
 <a href="https://www.duelingbook.com/replay?id=1000060-52665534" target="_blank">https://www.duelingbook.com/replay?id=1000060-52665534</a>
 
-### 5. No King of the Swamp list
+### No King of the Swamp list
 
 <a href="https://www.duelingbook.com/replay?id=1000060-53853274" target="_blank">https://www.duelingbook.com/replay?id=1000060-53853274</a>
 
@@ -707,12 +723,12 @@ BUT, imagine the scenario where they have Imperm too: Ash will negate Scream and
 | ![Mudora](cards/mudora.jpg) ![Keldo](cards/keldo.jpg) | (Quick Effect): You can banish this card from your field or GY, then target up to 3 cards in any GY(s), or up to 5 if "Exchange of the Spirit" is on your field or in your GY; shuffle them into the Deck. | Shuffle back the Tear names, or King of the Swamp, or the targeted cards they target with Metanoise or Heartbeat, or even Poly if they have Guardian Chimera.<br /><br />Shuffle back Kaleido-Heart or Rulkallos when they try to revive.  | Don't forget to trigger Perlereino if applicable. |
 | ![Dimensional Barrier](cards/dim-barrier.jpg) | Declare 1 monster card type (~~Ritual~~, Fusion, Synchro, Xyz, ~~or Pendulum~~); for the rest of this turn, neither player can Special Summon monsters of the declared type, also negate the effects of all monsters of that type while they are on the field. You can only activate 1 "Dimensional Barrier" per turn. | Call fusion.<br /><br />Kaleido and Rulkallos can't revive the turn you called fusion. Also, all their fusions will be negated. | Just make Redoer or Baronne. |
 | ![Soul Drain](cards/soul-drain.jpg) | Activate by paying 1000 LP. Monsters that are banished, as well as monsters in the GY, cannot activate their effects. | It's like a permanent Belle that can't be chainblocked. Be careful on time. | Wish for Fenrir or back-row hate. If you can make Baronne, or Kaleido/Chimera with Poly, this is also good. |
+| ![Called by the Grave](cards/called-by.jpg) | Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name. |  Banish any monster in the GY that will be used for a fusion. You can also banish TKash or Reino from the GY to negate the one on field. Also, you can banish Kaleido-Heart or Rulkallos when they try to revive. |
 
 ### Cards that hurt
 
 | Card(s) | Effect | Comment (as the player playing against Tear) | Comment (as the Tear player) |
 | --- | --- | --- | --- |
-| ![Called by the Grave](cards/called-by.jpg) | Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name. |  Banish any monster in the GY that will be used for a fusion. You can also banish TKash or Reino from the GY to negate the one on field. Also, you can banish Kaleido-Heart or Rulkallos when they try to revive. |
 | ![Ash Blossom](cards/ash.jpg) | When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.<br />● Add a card from the Deck to the hand.<br />● Special Summon from the Deck.<br />● Send a card from the Deck to the GY.<br />You can only use this effect of "Ash Blossom & Joyous Spring" once per turn. | The best target would be Scheiren. The deck has so much gas that if you hit Reino, Foolish or a Planet, it might do nothing but try to do it on the first target possible to stop them right away. | You can always [chainblock](#chainblocking-ash) her. |
 | ![Ghost Belle](cards/belle.jpg) ![Skull Meister](cards/skull-meister.jpg) | When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.<br />● Add a card(s) from the GY to the hand, Deck, and/or Extra Deck.<br />● Special Summon a Monster Card(s) from the GY.<br />● Banish a card(s) from the GY.<br />You can only use this effect of "Ghost Belle & Haunted Mansion" once per turn.<br /><br />When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect. | Negate any effect in GY. | You can always [chainblock](#chainblocking-belle) them. |
 | ![Nibiru](cards/nibiru.jpg) | During the Main Phase, if your opponent Normal or Special Summoned 5 or more monsters this turn (Quick Effect): You can Tribute as many face-up monsters on the field as possible, and if you do, Special Summon this card from your hand, then Special Summon 1 "Primal Being Token" (Rock/LIGHT/Level 11/ATK ?/DEF ?) to your opponent's field. (This Token's ATK/DEF become the combined original ATK/DEF of the Tributed monsters.) You can only use this effect of "Nibiru, the Primal Being" once per turn. | Try to use Nibiru before they Toad, Rullakllos, Grapha or Baronne. If they are not playing the King of the Swamp package, it will hurt even more. | Try to put quickly on play Toad, Rullakllos, Grapha or Baronne. Don't forget that the token is a Light monster. It might be relevant to make Construct or as a Super Poly target.<br /><br />**The situation where you have Reino and Scheiren:** normally you don't want to make Redoer and let your opponent Nib you to trigger Reino **and** Scheiren when they will be sent to the GY. But, if Reino was Special Summoned by his effect (it's a once per turn so it's effect was already activated. Also, if Nib kills him, he will be banished), you can make Redoer. When they will Nib you, you just need to chain Redoer. Nib will arrive, and in a new chain you can activate Scheiren. |
@@ -767,6 +783,6 @@ There are other matchup specific cards to be aware off, but this is not a topic 
 
 ## Credits
 
-Credits to ygoprodeck for the card pictures, and duelingbook for the banner, the decks, the videos and endboard pictures.
+Credits to ygoprodeck for the card pictures, and duelingbook for the banner pictures, the decks, the replays and endboard pictures.
 
 Credits to all the information I found online: mostly Youtube and in the Facebook <a href="https://www.facebook.com/groups/2774907876148837/posts/3130081543964800/" target="_blank">Tearlaments Duelists</a> group.
