@@ -2,7 +2,7 @@
 
 **This guide is for TCG only.**
 
-**Last update:** 2023-10-25 (post AGOV).
+**Last update:** 2023-10-29 (post AGOV).
 
 - [Why play Tearlaments?](#why-play-tearlaments)
 - [Tearlaments core cards breackdown](#tearlaments-core-cards-breakdown)
@@ -262,7 +262,7 @@ All of those packages complement well each other and you can mix them. For examp
 
 ##### Beatrice + Winda + Baronne + Toad
 
-![Destiny 1 deck](decks/no-king-toad.png)
+![Destiny 1 deck](decks/no-king-Toad.png)
 
 ##### King of the Swamp + Winda + Baronne + Toad
 
