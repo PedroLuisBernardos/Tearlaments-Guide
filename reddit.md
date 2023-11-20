@@ -1,6 +1,7 @@
 # 💜 TCG Tearlaments in-depth guide 💙
 
-Post Arise-Heart ban.
+To update
+Version: post Arise-Heart ban.
 
 ## 📝 Little note before you start reading
 
